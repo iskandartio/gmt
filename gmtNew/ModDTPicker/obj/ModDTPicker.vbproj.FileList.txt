@@ -1,0 +1,15 @@
+bin\Release\ModDTPicker.dll
+bin\Release\ModDTPicker.pdb
+bin\Release\ModDTPicker.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Resources.resources
+obj\Release\ModDTPicker.vbproj.GenerateResource.Cache
+obj\Release\ModDTPicker.dll
+obj\Release\ModDTPicker.xml
+obj\Release\ModDTPicker.pdb
+..\..\dll\ModDTPicker.dll
+..\..\dll\ModDTPicker.pdb
+..\..\dll\ModDTPicker.xml
+..\dll\ModDTPicker.dll
+..\dll\ModDTPicker.pdb
+..\dll\ModDTPicker.xml

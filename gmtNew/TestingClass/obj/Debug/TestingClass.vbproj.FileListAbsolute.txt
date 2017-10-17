@@ -1,0 +1,28 @@
+F:\Coding\New Comics\TestingClass\obj\Debug\ResolveAssemblyReference.cache
+F:\Coding\New Comics\TestingClass\obj\Debug\Resources.resources
+F:\Coding\New Comics\TestingClass\obj\Debug\TestingClass.vbproj.GenerateResource.Cache
+F:\Coding\New Comics\TestingClass\bin\Debug\db.dll
+F:\Coding\New Comics\TestingClass\bin\Debug\param.dll
+F:\Coding\New Comics\TestingClass\obj\Debug\frmMHoliday.resources
+F:\Coding\New Comics\TestingClass\bin\Debug\FormMain.dll
+F:\Coding\New Comics\TestingClass\bin\Debug\ModDataGridView.dll
+F:\Coding\New Comics\TestingClass\bin\Debug\ModDBFunction.dll
+F:\Coding\New Comics\TestingClass\bin\Debug\FormMain.pdb
+F:\Coding\New Comics\TestingClass\bin\Debug\FormMain.xml
+F:\Coding\New Comics\TestingClass\bin\Debug\ModDataGridView.pdb
+F:\Coding\New Comics\TestingClass\bin\Debug\ModDataGridView.xml
+F:\Coding\New Comics\TestingClass\bin\Debug\frmMHoliday.exe.config
+F:\Coding\New Comics\TestingClass\bin\Debug\frmMHoliday.exe
+F:\Coding\New Comics\TestingClass\bin\Debug\frmMHoliday.pdb
+F:\Coding\New Comics\TestingClass\bin\Debug\frmMHoliday.xml
+F:\Coding\New Comics\TestingClass\obj\Debug\frmMHoliday.exe
+F:\Coding\New Comics\TestingClass\obj\Debug\frmMHoliday.xml
+F:\Coding\New Comics\TestingClass\obj\Debug\frmMHoliday.pdb
+F:\Coding\New Comics\TestingClass\bin\Debug\ModControl.dll
+F:\Coding\New Comics\TestingClass\bin\Debug\NumericTextBox.dll
+F:\Coding\New Comics\TestingClass\bin\Debug\NumericTextBox.pdb
+F:\Coding\New Comics\TestingClass\bin\Debug\NumericTextBox.xml
+F:\Coding\private\TestingClass\bin\Debug\frmMHoliday.exe.config
+F:\Coding\private\TestingClass\obj\Debug\frmMHoliday.exe
+F:\Coding\private\TestingClass\obj\Debug\frmMHoliday.xml
+F:\Coding\private\TestingClass\obj\Debug\frmMHoliday.pdb

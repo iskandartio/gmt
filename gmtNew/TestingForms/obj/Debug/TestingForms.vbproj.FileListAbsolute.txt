@@ -1,0 +1,15 @@
+f:\Coding\New Comics\TestingForms\bin\Debug\TestingForms.exe
+f:\Coding\New Comics\TestingForms\bin\Debug\TestingForms.pdb
+f:\Coding\New Comics\TestingForms\bin\Debug\TestingForms.xml
+f:\Coding\New Comics\TestingForms\obj\Debug\ResolveAssemblyReference.cache
+f:\Coding\New Comics\TestingForms\obj\Debug\Form1.resources
+f:\Coding\New Comics\TestingForms\obj\Debug\Resources.resources
+f:\Coding\New Comics\TestingForms\obj\Debug\TestingForms.vbproj.GenerateResource.Cache
+f:\Coding\New Comics\TestingForms\obj\Debug\TestingForms.exe
+f:\Coding\New Comics\TestingForms\obj\Debug\TestingForms.xml
+f:\Coding\New Comics\TestingForms\obj\Debug\TestingForms.pdb
+f:\Coding\New Comics\TestingForms\bin\Debug\TestingForms.exe.config
+F:\Coding\New Comics\TestingForms\bin\Debug\TestingForms.exe.manifest
+F:\Coding\New Comics\TestingForms\bin\Debug\TestingForms.application
+F:\Coding\New Comics\TestingForms\obj\Debug\TestingForms.exe.manifest
+F:\Coding\New Comics\TestingForms\obj\Debug\TestingForms.application

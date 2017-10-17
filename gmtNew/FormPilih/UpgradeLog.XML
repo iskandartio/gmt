@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FormPilih">
+</Property><Property Name="Solution File" Value="C:\Coding\New Comics\FormPilih\FormPilih.sln">
+</Property><Property Name="User Options File" Value="C:\Coding\New Comics\FormPilih\FormPilih.suo">
+</Property><Property Name="Date" Value="Friday, August 07, 2009">
+</Property><Property Name="Time" Value="20:09 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FormPilih.sln" Description="File successfully backed up as C:\Coding\New Comics\FormPilih\Backup\FormPilih.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FormPilih.suo" Description="File successfully backed up as C:\Coding\New Comics\FormPilih\Backup\FormPilih.suo">
+</Event><Event ErrorLevel="0" Project="FormPilih" Source="FormPilih.vbproj" Description="Project file successfully backed up as C:\Coding\New Comics\FormPilih\Backup\FormPilih.vbproj">
+</Event><Event ErrorLevel="0" Project="FormPilih" Source="FormPilih.designer.vb" Description="File successfully backed up as C:\Coding\New Comics\FormPilih\Backup\FormPilih.designer.vb">
+</Event><Event ErrorLevel="0" Project="FormPilih" Source="FormPilih.vb" Description="File successfully backed up as C:\Coding\New Comics\FormPilih\Backup\FormPilih.vb">
+</Event><Event ErrorLevel="0" Project="FormPilih" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Coding\New Comics\FormPilih\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="FormPilih" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\Coding\New Comics\FormPilih\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="FormPilih" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Coding\New Comics\FormPilih\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="FormPilih" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Coding\New Comics\FormPilih\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="FormPilih" Source="My Project\Application.myapp" Description="File successfully backed up as C:\Coding\New Comics\FormPilih\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="FormPilih" Source="My Project\Settings.settings" Description="File successfully backed up as C:\Coding\New Comics\FormPilih\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="FormPilih" Source="FormPilih.resx" Description="File successfully backed up as C:\Coding\New Comics\FormPilih\Backup\FormPilih.resx">
+</Event><Event ErrorLevel="0" Project="FormPilih" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Coding\New Comics\FormPilih\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="FormPilih" Source="FormPilih.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FormPilih" Source="FormPilih.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FormPilih.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FormPilih.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FormPilih" Source="FormPilih.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

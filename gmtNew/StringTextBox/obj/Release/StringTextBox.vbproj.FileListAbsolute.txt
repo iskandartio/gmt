@@ -1,0 +1,18 @@
+C:\Coding\New Comics\dll\StringTextBox.dll
+C:\Coding\New Comics\dll\StringTextBox.pdb
+C:\Coding\New Comics\dll\StringTextBox.xml
+C:\Coding\New Comics\StringTextBox\obj\Release\ResolveAssemblyReference.cache
+C:\Coding\New Comics\StringTextBox\obj\Release\Resources.resources
+C:\Coding\New Comics\StringTextBox\obj\Release\StringTextBox.vbproj.GenerateResource.Cache
+C:\Coding\New Comics\StringTextBox\obj\Release\StringTextBox.dll
+C:\Coding\New Comics\StringTextBox\obj\Release\StringTextBox.xml
+C:\Coding\New Comics\StringTextBox\obj\Release\StringTextBox.pdb
+F:\Coding\private\dll\StringTextBox.dll
+F:\Coding\private\dll\StringTextBox.pdb
+F:\Coding\private\dll\StringTextBox.xml
+F:\Coding\private\StringTextBox\obj\Release\ResolveAssemblyReference.cache
+F:\Coding\private\StringTextBox\obj\Release\Resources.resources
+F:\Coding\private\StringTextBox\obj\Release\StringTextBox.vbproj.GenerateResource.Cache
+F:\Coding\private\StringTextBox\obj\Release\StringTextBox.dll
+F:\Coding\private\StringTextBox\obj\Release\StringTextBox.xml
+F:\Coding\private\StringTextBox\obj\Release\StringTextBox.pdb

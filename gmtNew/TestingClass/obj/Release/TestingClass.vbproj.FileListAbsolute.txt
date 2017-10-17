@@ -1,0 +1,18 @@
+F:\Coding\New Comics\TestingClass\obj\Release\ResolveAssemblyReference.cache
+F:\Coding\New Comics\TestingClass\obj\Release\Resources.resources
+F:\Coding\New Comics\TestingClass\obj\Release\TestingClass.vbproj.GenerateResource.Cache
+F:\Coding\New Comics\dll\frmMasterCity.dll.config
+F:\Coding\New Comics\dll\frmMasterCity.dll
+F:\Coding\New Comics\dll\frmMasterCity.xml
+F:\Coding\New Comics\TestingClass\obj\Release\frmMasterCity.resources
+F:\Coding\New Comics\TestingClass\obj\Release\frmMasterCity.dll
+F:\Coding\New Comics\TestingClass\obj\Release\frmMasterCity.xml
+F:\Coding\New Comics\dll\frmMasterCity.exe.config
+F:\Coding\private\TestingClass\obj\Release\ResolveAssemblyReference.cache
+F:\Coding\private\TestingClass\obj\Release\Resources.resources
+F:\Coding\private\TestingClass\obj\Release\TestingClass.vbproj.GenerateResource.Cache
+F:\Coding\private\dll\db.dll.config
+F:\Coding\private\dll\db.dll
+F:\Coding\private\dll\db.xml
+F:\Coding\private\TestingClass\obj\Release\db.dll
+F:\Coding\private\TestingClass\obj\Release\db.xml

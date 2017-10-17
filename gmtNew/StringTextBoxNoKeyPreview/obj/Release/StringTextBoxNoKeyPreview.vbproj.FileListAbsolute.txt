@@ -1,0 +1,9 @@
+F:\Coding\private\StringTextBoxNoKeyPreview\obj\Release\ResolveAssemblyReference.cache
+F:\Coding\private\StringTextBoxNoKeyPreview\obj\Release\Resources.resources
+F:\Coding\private\StringTextBoxNoKeyPreview\obj\Release\StringTextBoxNoKeyPreview.vbproj.GenerateResource.Cache
+F:\Coding\private\dll\StringTextBoxNoKeyPreview.dll
+F:\Coding\private\dll\StringTextBoxNoKeyPreview.pdb
+F:\Coding\private\dll\StringTextBoxNoKeyPreview.xml
+F:\Coding\private\StringTextBoxNoKeyPreview\obj\Release\StringTextBoxNoKeyPreview.dll
+F:\Coding\private\StringTextBoxNoKeyPreview\obj\Release\StringTextBoxNoKeyPreview.xml
+F:\Coding\private\StringTextBoxNoKeyPreview\obj\Release\StringTextBoxNoKeyPreview.pdb

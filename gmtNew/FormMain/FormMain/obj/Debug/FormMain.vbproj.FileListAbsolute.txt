@@ -1,0 +1,32 @@
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\FormMain\bin\Debug\FormMain.exe
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\FormMain\bin\Debug\FormMain.pdb
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\FormMain\bin\Debug\FormMain.xml
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\FormMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\FormMain\obj\Debug\FormMain.PaninProject.FormMain.resources
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\FormMain\obj\Debug\FormMain.Resources.resources
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\FormMain\obj\Debug\FormMain.vbproj.GenerateResource.Cache
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\FormMain\obj\Debug\FormMain.exe
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\FormMain\obj\Debug\FormMain.xml
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\FormMain\obj\Debug\FormMain.pdb
+C:\Coding\New Comics\FormMain\FormMain\obj\Debug\FormMain.xml
+C:\Coding\New Comics\FormMain\FormMain\obj\Debug\FormMain.pdb
+C:\Coding\New Comics\FormMain\FormMain\bin\Debug\FormMain.dll.config
+C:\Coding\New Comics\FormMain\FormMain\bin\Debug\FormMain.dll
+C:\Coding\New Comics\FormMain\FormMain\bin\Debug\FormMain.pdb
+C:\Coding\New Comics\FormMain\FormMain\bin\Debug\FormMain.xml
+C:\Coding\New Comics\FormMain\FormMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Coding\New Comics\FormMain\FormMain\obj\Debug\PaninProject.FormMain.resources
+C:\Coding\New Comics\FormMain\FormMain\obj\Debug\Resources.resources
+C:\Coding\New Comics\FormMain\FormMain\obj\Debug\FormMain.vbproj.GenerateResource.Cache
+C:\Coding\New Comics\FormMain\FormMain\obj\Debug\FormMain.dll
+E:\private\FormMain\FormMain\bin\Debug\FormMain.dll.config
+E:\private\FormMain\FormMain\bin\Debug\FormMain.dll
+E:\private\FormMain\FormMain\bin\Debug\FormMain.pdb
+E:\private\FormMain\FormMain\bin\Debug\FormMain.xml
+E:\private\FormMain\FormMain\obj\Debug\ResolveAssemblyReference.cache
+E:\private\FormMain\FormMain\obj\Debug\FormMain.resources
+E:\private\FormMain\FormMain\obj\Debug\Resources.resources
+E:\private\FormMain\FormMain\obj\Debug\FormMain.vbproj.GenerateResource.Cache
+E:\private\FormMain\FormMain\obj\Debug\FormMain.dll
+E:\private\FormMain\FormMain\obj\Debug\FormMain.xml
+E:\private\FormMain\FormMain\obj\Debug\FormMain.pdb

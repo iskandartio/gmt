@@ -1,0 +1,9 @@
+..\dll\StringTextBox.dll
+..\dll\StringTextBox.pdb
+..\dll\StringTextBox.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Resources.resources
+obj\Release\StringTextBox.vbproj.GenerateResource.Cache
+obj\Release\StringTextBox.dll
+obj\Release\StringTextBox.xml
+obj\Release\StringTextBox.pdb

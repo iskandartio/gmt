@@ -1,0 +1,22 @@
+C:\Coding\New Comics\dll\FormMain.pdb
+C:\Coding\New Comics\dll\FormMain.xml
+C:\Coding\New Comics\FormMain\FormMain\obj\Release\ResolveAssemblyReference.cache
+C:\Coding\New Comics\FormMain\FormMain\obj\Release\PaninProject.FormMain.resources
+C:\Coding\New Comics\FormMain\FormMain\obj\Release\Resources.resources
+C:\Coding\New Comics\FormMain\FormMain\obj\Release\FormMain.vbproj.GenerateResource.Cache
+C:\Coding\New Comics\FormMain\FormMain\obj\Release\FormMain.xml
+C:\Coding\New Comics\FormMain\FormMain\obj\Release\FormMain.pdb
+C:\Coding\New Comics\dll\FormMain.dll.config
+C:\Coding\New Comics\dll\FormMain.dll
+C:\Coding\New Comics\FormMain\FormMain\obj\Release\FormMain.dll
+F:\Coding\private\dll\FormMain.dll.config
+F:\Coding\private\dll\FormMain.dll
+F:\Coding\private\dll\FormMain.pdb
+F:\Coding\private\dll\FormMain.xml
+F:\Coding\private\FormMain\FormMain\obj\Release\ResolveAssemblyReference.cache
+F:\Coding\private\FormMain\FormMain\obj\Release\FormMain.resources
+F:\Coding\private\FormMain\FormMain\obj\Release\Resources.resources
+F:\Coding\private\FormMain\FormMain\obj\Release\FormMain.vbproj.GenerateResource.Cache
+F:\Coding\private\FormMain\FormMain\obj\Release\FormMain.dll
+F:\Coding\private\FormMain\FormMain\obj\Release\FormMain.xml
+F:\Coding\private\FormMain\FormMain\obj\Release\FormMain.pdb

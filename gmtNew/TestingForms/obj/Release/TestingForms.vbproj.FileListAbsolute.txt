@@ -1,0 +1,39 @@
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\TestingFormss\bin\Release\TestingForms.exe
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\TestingFormss\bin\Release\TestingForms.pdb
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\TestingFormss\bin\Release\TestingForms.xml
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\TestingFormss\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\TestingFormss\obj\Release\Form1.resources
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\TestingFormss\obj\Release\Resources.resources
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\TestingFormss\obj\Release\TestingForms.vbproj.GenerateResource.Cache
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\TestingFormss\obj\Release\TestingForms.exe
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\TestingFormss\obj\Release\TestingForms.xml
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\TestingFormss\obj\Release\TestingForms.pdb
+f:\Coding\New Comics\TestingForms\obj\Release\TestingForms.exe
+f:\Coding\New Comics\TestingForms\obj\Release\TestingForms.xml
+f:\Coding\New Comics\TestingForms\obj\Release\TestingForms.pdb
+f:\Coding\New Comics\TestingForms\bin\Release\TestingForms.exe
+f:\Coding\New Comics\TestingForms\bin\Release\TestingForms.pdb
+f:\Coding\New Comics\TestingForms\bin\Release\TestingForms.xml
+f:\Coding\New Comics\TestingForms\obj\Release\ResolveAssemblyReference.cache
+f:\Coding\New Comics\TestingForms\obj\Release\Form1.resources
+f:\Coding\New Comics\TestingForms\obj\Release\Resources.resources
+f:\Coding\New Comics\TestingForms\obj\Release\TestingForms.vbproj.GenerateResource.Cache
+f:\Coding\New Comics\TestingForms\bin\Release\TestingForms.exe.config
+F:\Coding\New Comics\TestingForms\bin\Release\TestingForms.exe.manifest
+F:\Coding\New Comics\TestingForms\bin\Release\TestingForms.application
+F:\Coding\New Comics\TestingForms\obj\Release\TestingForms.exe.manifest
+F:\Coding\New Comics\TestingForms\obj\Release\TestingForms.application
+F:\Coding\private\TestingForms\bin\Release\TestingForms.exe.config
+F:\Coding\private\TestingForms\bin\Release\Login.exe.config
+F:\Coding\private\TestingForms\bin\Release\frmLogin.exe.config
+F:\Coding\private\dll\frmLogin.pdb
+F:\Coding\private\dll\frmLogin.xml
+F:\Coding\private\TestingForms\obj\Release\ResolveAssemblyReference.cache
+F:\Coding\private\TestingForms\obj\Release\frmLogin.resources
+F:\Coding\private\TestingForms\obj\Release\Resources.resources
+F:\Coding\private\TestingForms\obj\Release\TestingForms.vbproj.GenerateResource.Cache
+F:\Coding\private\TestingForms\obj\Release\frmLogin.xml
+F:\Coding\private\TestingForms\obj\Release\frmLogin.pdb
+F:\Coding\private\dll\frmLogin.dll.config
+F:\Coding\private\dll\frmLogin.dll
+F:\Coding\private\TestingForms\obj\Release\frmLogin.dll

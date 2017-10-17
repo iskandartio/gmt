@@ -1,0 +1,9 @@
+F:\Coding\private\ModComboBox\bin\Debug\ModComboBox.dll
+F:\Coding\private\ModComboBox\bin\Debug\ModComboBox.pdb
+F:\Coding\private\ModComboBox\bin\Debug\ModComboBox.xml
+F:\Coding\private\ModComboBox\obj\Debug\ResolveAssemblyReference.cache
+F:\Coding\private\ModComboBox\obj\Debug\Resources.resources
+F:\Coding\private\ModComboBox\obj\Debug\ModComboBox.vbproj.GenerateResource.Cache
+F:\Coding\private\ModComboBox\obj\Debug\ModComboBox.dll
+F:\Coding\private\ModComboBox\obj\Debug\ModComboBox.xml
+F:\Coding\private\ModComboBox\obj\Debug\ModComboBox.pdb

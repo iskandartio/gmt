@@ -1,0 +1,10 @@
+C:\Coding\New Comics\ModDataGridView\ModDataGridView\bin\Debug\ModDataGridView.dll
+C:\Coding\New Comics\ModDataGridView\ModDataGridView\bin\Debug\ModDataGridView.pdb
+C:\Coding\New Comics\ModDataGridView\ModDataGridView\bin\Debug\ModDataGridView.xml
+C:\Coding\New Comics\ModDataGridView\ModDataGridView\obj\Debug\ResolveAssemblyReference.cache
+C:\Coding\New Comics\ModDataGridView\ModDataGridView\obj\Debug\Resources.resources
+C:\Coding\New Comics\ModDataGridView\ModDataGridView\obj\Debug\modDataGridView.resources
+C:\Coding\New Comics\ModDataGridView\ModDataGridView\obj\Debug\ModDataGridView.vbproj.GenerateResource.Cache
+C:\Coding\New Comics\ModDataGridView\ModDataGridView\obj\Debug\ModDataGridView.dll
+C:\Coding\New Comics\ModDataGridView\ModDataGridView\obj\Debug\ModDataGridView.xml
+C:\Coding\New Comics\ModDataGridView\ModDataGridView\obj\Debug\ModDataGridView.pdb

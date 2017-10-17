@@ -1,0 +1,37 @@
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\NumericTextBox\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\NumericTextBox\obj\Release\NumericTextBox.Resources.resources
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\NumericTextBox\obj\Release\NumericTextBox.NumericTextBox.resources
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\NumericTextBox\obj\Release\NumericTextBox.vbproj.GenerateResource.Cache
+C:\Coding\New Comics\dll\NumericTextBox.dll
+C:\Coding\New Comics\dll\NumericTextBox.pdb
+C:\Coding\New Comics\dll\NumericTextBox.xml
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\NumericTextBox\obj\Release\NumericTextBox.dll
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\NumericTextBox\obj\Release\NumericTextBox.xml
+C:\Documents and Settings\a\Local Settings\Application Data\Temporary Projects\NumericTextBox\obj\Release\NumericTextBox.pdb
+C:\Coding\New Comics\NumericTextBox\obj\Release\ResolveAssemblyReference.cache
+C:\Coding\New Comics\NumericTextBox\obj\Release\Resources.resources
+C:\Coding\New Comics\NumericTextBox\obj\Release\NumericTextBox.resources
+C:\Coding\New Comics\NumericTextBox\obj\Release\NumericTextBox.vbproj.GenerateResource.Cache
+C:\Coding\New Comics\NumericTextBox\obj\Release\NumericTextBox.dll
+C:\Coding\New Comics\NumericTextBox\obj\Release\NumericTextBox.xml
+C:\Coding\New Comics\NumericTextBox\obj\Release\NumericTextBox.pdb
+F:\Coding\New Comics\dll\NumericTextBox.dll
+F:\Coding\New Comics\dll\NumericTextBox.pdb
+F:\Coding\New Comics\dll\NumericTextBox.xml
+F:\Coding\New Comics\NumericTextBox\obj\Release\ResolveAssemblyReference.cache
+F:\Coding\New Comics\NumericTextBox\obj\Release\Resources.resources
+F:\Coding\New Comics\NumericTextBox\obj\Release\NumericTextBox.resources
+F:\Coding\New Comics\NumericTextBox\obj\Release\NumericTextBox.vbproj.GenerateResource.Cache
+F:\Coding\New Comics\NumericTextBox\obj\Release\NumericTextBox.dll
+F:\Coding\New Comics\NumericTextBox\obj\Release\NumericTextBox.xml
+F:\Coding\New Comics\NumericTextBox\obj\Release\NumericTextBox.pdb
+F:\Coding\private\dll\NumericTextBox.dll
+F:\Coding\private\dll\NumericTextBox.pdb
+F:\Coding\private\dll\NumericTextBox.xml
+F:\Coding\private\NumericTextBox\obj\Release\ResolveAssemblyReference.cache
+F:\Coding\private\NumericTextBox\obj\Release\Resources.resources
+F:\Coding\private\NumericTextBox\obj\Release\NumericTextBox.resources
+F:\Coding\private\NumericTextBox\obj\Release\NumericTextBox.vbproj.GenerateResource.Cache
+F:\Coding\private\NumericTextBox\obj\Release\NumericTextBox.dll
+F:\Coding\private\NumericTextBox\obj\Release\NumericTextBox.xml
+F:\Coding\private\NumericTextBox\obj\Release\NumericTextBox.pdb

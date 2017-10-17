@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+bin\Debug\Login.exe.config
+bin\Debug\Login.exe
+bin\Debug\Login.pdb
+bin\Debug\Login.xml
+obj\Debug\Login.frmLogin.resources
+obj\Debug\Login.Resources.resources
+obj\Debug\Login.exe
+obj\Debug\Login.xml
+obj\Debug\Login.pdb

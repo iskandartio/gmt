@@ -1,0 +1,20 @@
+C:\Coding\New Comics\dll\FormPilih.dll
+C:\Coding\New Comics\dll\FormPilih.pdb
+C:\Coding\New Comics\dll\FormPilih.xml
+C:\Coding\New Comics\FormPilih\obj\Release\ResolveAssemblyReference.cache
+C:\Coding\New Comics\FormPilih\obj\Release\PaninProject.FormPilih.resources
+C:\Coding\New Comics\FormPilih\obj\Release\Resources.resources
+C:\Coding\New Comics\FormPilih\obj\Release\FormPilih.vbproj.GenerateResource.Cache
+C:\Coding\New Comics\FormPilih\obj\Release\FormPilih.dll
+C:\Coding\New Comics\FormPilih\obj\Release\FormPilih.xml
+C:\Coding\New Comics\FormPilih\obj\Release\FormPilih.pdb
+E:\private\FormPilih\obj\Release\ResolveAssemblyReference.cache
+E:\private\FormPilih\obj\Release\Resources.resources
+E:\private\FormPilih\obj\Release\FormPilih.vbproj.GenerateResource.Cache
+E:\private\FormPilih\obj\Release\FormPilih.dll
+E:\private\FormPilih\obj\Release\FormPilih.xml
+E:\private\FormPilih\obj\Release\FormPilih.pdb
+E:\private\dll\FormPilih.dll
+E:\private\dll\FormPilih.pdb
+E:\private\dll\FormPilih.xml
+E:\private\FormPilih\obj\Release\FormPilih.resources

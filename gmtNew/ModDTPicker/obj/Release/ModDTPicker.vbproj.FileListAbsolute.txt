@@ -1,0 +1,18 @@
+F:\Coding\New Comics\dll\ModDTPicker.dll
+F:\Coding\New Comics\dll\ModDTPicker.pdb
+F:\Coding\New Comics\dll\ModDTPicker.xml
+F:\Coding\New Comics\ModDTPicker\obj\Release\ResolveAssemblyReference.cache
+F:\Coding\New Comics\ModDTPicker\obj\Release\Resources.resources
+F:\Coding\New Comics\ModDTPicker\obj\Release\ModDTPicker.vbproj.GenerateResource.Cache
+F:\Coding\New Comics\ModDTPicker\obj\Release\ModDTPicker.dll
+F:\Coding\New Comics\ModDTPicker\obj\Release\ModDTPicker.xml
+F:\Coding\New Comics\ModDTPicker\obj\Release\ModDTPicker.pdb
+F:\Coding\private\dll\ModDTPicker.dll
+F:\Coding\private\dll\ModDTPicker.pdb
+F:\Coding\private\dll\ModDTPicker.xml
+F:\Coding\private\ModDTPicker\obj\Release\ResolveAssemblyReference.cache
+F:\Coding\private\ModDTPicker\obj\Release\Resources.resources
+F:\Coding\private\ModDTPicker\obj\Release\ModDTPicker.vbproj.GenerateResource.Cache
+F:\Coding\private\ModDTPicker\obj\Release\ModDTPicker.dll
+F:\Coding\private\ModDTPicker\obj\Release\ModDTPicker.xml
+F:\Coding\private\ModDTPicker\obj\Release\ModDTPicker.pdb

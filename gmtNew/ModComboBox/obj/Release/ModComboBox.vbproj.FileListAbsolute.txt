@@ -1,0 +1,18 @@
+f:\Coding\New Comics\ModComboBox\obj\Release\ResolveAssemblyReference.cache
+f:\Coding\New Comics\ModComboBox\obj\Release\Resources.resources
+f:\Coding\New Comics\ModComboBox\obj\Release\ModComboBox.vbproj.GenerateResource.Cache
+f:\Coding\New Comics\dll\ModComboBox.dll
+f:\Coding\New Comics\dll\ModComboBox.pdb
+f:\Coding\New Comics\dll\ModComboBox.xml
+f:\Coding\New Comics\ModComboBox\obj\Release\ModComboBox.dll
+f:\Coding\New Comics\ModComboBox\obj\Release\ModComboBox.xml
+f:\Coding\New Comics\ModComboBox\obj\Release\ModComboBox.pdb
+F:\Coding\private\dll\ModComboBox.dll
+F:\Coding\private\dll\ModComboBox.pdb
+F:\Coding\private\dll\ModComboBox.xml
+F:\Coding\private\ModComboBox\obj\Release\ResolveAssemblyReference.cache
+F:\Coding\private\ModComboBox\obj\Release\Resources.resources
+F:\Coding\private\ModComboBox\obj\Release\ModComboBox.vbproj.GenerateResource.Cache
+F:\Coding\private\ModComboBox\obj\Release\ModComboBox.dll
+F:\Coding\private\ModComboBox\obj\Release\ModComboBox.xml
+F:\Coding\private\ModComboBox\obj\Release\ModComboBox.pdb
