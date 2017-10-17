@@ -1,0 +1,4 @@
+Tunjangan Jabatan tidak termasuk Upah
+Tunjangan Jabatan ada tiap bulan
+THR 0-3 bln berapa% bergantung lama kerja
+Dibuat report per Warna untuk Penjualan

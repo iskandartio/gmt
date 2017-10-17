@@ -1,0 +1,2 @@
+copy Folder ComponentFiles, GMT.exe, setting.txt ke Folder Khusus
+Masuk Folder ComponentFiles klik InstallWinXP

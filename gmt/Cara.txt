@@ -1,0 +1,8 @@
+www.gmail.com
+UserID   : gmt.program@gmail.com
+Password : gmtprogram
+
+Program kopi ke c:\gmt\program\program
+masuk ke c:\gmt\program\gmt.vbp
+Menu File Make GMT.exe, OK 
+Kopi dari c:\gmt\server\gmt.exe ke \\server\server\gmt.exe

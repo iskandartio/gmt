@@ -1,0 +1,7 @@
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=c:\GMT\Server\GMT.mdb;Persist Security Info=False;Jet OLEDB:Database Password=gmt
+Provider=Microsoft.Jet.OLEDB.4.0
+DataSource=c:\gmt\server\gmt.mdb
+DatabaseName=gmt.mdb
+DatabasePassword=gmt
+ServerDir=c:\gmt\server\
+ReportDir=c:\gmt\server\report\
